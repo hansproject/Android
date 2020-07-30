@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"> Tic Tac Toe </string>
+    <string name="Newgame">New Game</string>
+    <string name="okButton">OK</string>
+    <string name="number_of_players">Enter the number of players:</string>
+</resources>
