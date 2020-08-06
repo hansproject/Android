@@ -20,7 +20,7 @@ Contains Android Apps I created using Java
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Hans Peter Ndeffo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hansproject&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
