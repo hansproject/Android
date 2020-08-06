@@ -1,4 +1,4 @@
-# Android
+### Android
 Contains Android Apps I created using Java
 - 1st App is a brain game called Tic Tac Toe.
 - 2nd Apps are Uber Clone Apps. I can not post fully the code but I can show it on request.
@@ -25,7 +25,7 @@ Contains Android Apps I created using Java
 
 <img align="left" alt="Hans Peter Ndeffo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hansproject&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[website]: 
 [linkedin]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
 [webdevplaylist]: https://github.com/hansproject
 [jsplaylist]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
