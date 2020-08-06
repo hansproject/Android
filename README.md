@@ -27,5 +27,5 @@ Contains Android Apps I created using Java
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
-[webdevplaylist]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
+[webdevplaylist]: https://github.com/hansproject
 [jsplaylist]: https://www.linkedin.com/in/hans-peter-ndeffo-099648161/
